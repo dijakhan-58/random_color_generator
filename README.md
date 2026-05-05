@@ -4,15 +4,15 @@ A simple, interactive web application that dynamically changes the background co
 
 
 ##  Features
-- **Dynamic Backgrounds:** Generates random HEX color codes every second[cite: 1].
-- **Smooth Interaction:** "Start" and "Stop" buttons to control the color-changing loop[cite: 1].
-- **Clean UI:** A centered glassmorphism-inspired card for a modern look[cite: 1].
-- **State Management:** Logic prevents multiple intervals from running simultaneously, ensuring stability[cite: 1].
+- **Dynamic Backgrounds:** Generates random HEX color codes every second.
+- **Smooth Interaction:** "Start" and "Stop" buttons to control the color-changing loop.
+- **Clean UI:** A centered glassmorphism-inspired card for a modern look.
+- **State Management:** Logic prevents multiple intervals from running simultaneously, ensuring stability.
 
 ##  Built With
 - **HTML5:** For the core structure.
-- **CSS3:** For styling, including flexbox and rounded card layouts[cite: 1].
-- **JavaScript:** Using `setInterval()` for timing and `Math.random()` for color generation[cite: 1].
+- **CSS3:** For styling, including flexbox and rounded card layouts.
+- **JavaScript:** Using `setInterval()` for timing and `Math.random()` for color generation.
 
 ##  Project Structure
 - `index.html`: The main entry point.
